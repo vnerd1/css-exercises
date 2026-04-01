@@ -1,4 +1,6 @@
 # CSS Exercises
+this is my fork of the odin project i used to practice connecting a CSS file to the HTML file using internal external and inline methods, styling HTML
+elements by changing background colors f,fontsizes and types and understanding classes and IDs and CSS specificity and hierarchy.
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
 
